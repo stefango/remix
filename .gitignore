@@ -3,6 +3,7 @@ node_modules/
 pnpm-publish-summary.json
 reference/
 .tmp/
+.idea/
 /demos/tmp/
 *.db
 *.db-*
